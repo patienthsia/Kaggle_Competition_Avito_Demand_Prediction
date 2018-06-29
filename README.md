@@ -29,16 +29,16 @@ One more exciting competition ahead and this involves both NLP (text data in Rus
 
 ##Steps:##
 
-Import data sets
-Translate columns in Russian into ones in English or substitute Cylliric Alphabets with Roman Alphabets
-Split the Training datasets into Training and Validation
-Fill null values
-Feature Extraction from active and period tables
-Feature extraction with text columns
-Label Encoding
-TF-IDF
-Wordbatch
-Image Feature extraction with Keras
-Train model with Light GBM
-Train model with XGBoost
-Submit results and select model
+1. Import data sets
+2. Translate columns in Russian into ones in English or substitute Cylliric Alphabets with Roman Alphabets
+3. Split the Training datasets into Training and Validation
+4. Fill null values
+5. Feature Extraction from active and period tables
+5. Feature extraction with text columns
+6. Label Encoding
+7. TF-IDF 
+8. Wordbatch
+9. Image Feature extraction with Keras
+10. Train model with Light GBM
+11. Train model with XGBoost
+12. Submit results and select model
